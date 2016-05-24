@@ -1,0 +1,12 @@
+#includeiostream
+using std namespace
+
+
+
+
+intmain(
+
+cout<<"hello"<<endl
+
+
+)
